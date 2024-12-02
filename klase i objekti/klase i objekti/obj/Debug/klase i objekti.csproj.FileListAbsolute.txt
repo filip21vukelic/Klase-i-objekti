@@ -1,0 +1,7 @@
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\klase i objekti\klase i objekti\obj\Debug\klase i objekti.csproj.AssemblyReference.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\klase i objekti\klase i objekti\obj\Debug\klase i objekti.csproj.CoreCompileInputs.cache
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\klase i objekti\klase i objekti\bin\Debug\klase i objekti.exe.config
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\klase i objekti\klase i objekti\bin\Debug\klase i objekti.exe
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\klase i objekti\klase i objekti\bin\Debug\klase i objekti.pdb
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\klase i objekti\klase i objekti\obj\Debug\klase i objekti.exe
+C:\Users\ucenik.DESKTOP-S05N7S1\source\repos\klase i objekti\klase i objekti\obj\Debug\klase i objekti.pdb
